@@ -67,8 +67,8 @@ A human processes the world with biological "wetware." An AI uses silicon "hardw
 
 For a deep, academic dive into our methodology, results, and philosophical arguments, please read our full paper.
 
-- **[Read the Full Paper Online (HTML)](./paper/paper.html)**
-- **[Download as PDF](./paper/paper.pdf)**
+- **[Read the Full Paper Online (HTML)](https://halmousama.github.io/The-Turing-Flattery-Experiment/paper/paper.html)**
+- **[Download as PDF](https://halmousama.github.io/The-Turing-Flattery-Experiment/paper/paper.pdf)**
 
 ## License
 
