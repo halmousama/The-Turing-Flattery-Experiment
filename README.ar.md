@@ -65,8 +65,8 @@
 
 للاطلاع على تحليل أكاديمي عميق لمنهجيتنا ونتائجنا وحججنا الفلسفية، يرجى قراءة ورقتنا الكاملة.
 
-- **[قراءة الورقة البحثية مباشرة (HTML)](./paper/paper.ar.html)**
-- **[تحميل كملف PDF](./paper/paper.ar.pdf)**
+- **[قراءة الورقة البحثية مباشرة (HTML)](https://halmousama.github.io/The-Turing-Flattery-Experiment/paper/paper.ar.html)**
+- **[تحميل كملف PDF](https://halmousama.github.io/The-Turing-Flattery-Experiment/paper/paper.ar.pdf)**
 
 ## الرخصة
 
